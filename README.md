@@ -1,1 +1,1 @@
-# Innternship Project @FeynnLabs
+# Internship Project @FeynnLabs
